@@ -1,0 +1,37 @@
+body{
+    color: #097512;
+}
+
+.recipe-link{
+    font-family: Arial, "Times New Roman", sans-serif;
+    color: #2928ED;
+    font-size: 18px;
+    background-color: #28EDB1;
+}
+
+img{
+    height: auto;
+    width: 600px;
+}
+
+body .description{
+    font-size: 20px;
+    color: black;
+    font-weight: 400;
+    font-family: Arial, sans-serif;
+}
+
+.ingredients,
+.steps{
+    font-size: 18px;
+    color: black;
+    font-weight: 300;
+    font-family: Arial;
+}
+
+.img-descript{
+    font-size: 25px;
+    color: #580F06;
+}
+
+
